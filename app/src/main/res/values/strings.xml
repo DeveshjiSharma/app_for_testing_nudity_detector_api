@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Trying NudeDetector api</string>
+    <string name="press">Press</string>
+    <string name="get">Get</string>
+    <string name="post">Post</string>
+    <string name="dd">dd</string>
+</resources>
